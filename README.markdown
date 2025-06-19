@@ -1,12 +1,8 @@
 # Durum Rol Botu
 
-![Node.js](https://img.shields.io/badge/Node.js-v20.17.0-green.svg) ![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Node.js](https://img.shields.io/badge/Node.js-v20.17.0-green.svg) 
 
 Bu bir Discord botudur ve kullanıcıların durum mesajlarına göre otomatik rol atama/çıkarma ile loglama özelliklerini sunar. Bot, CroxyDB ile veri saklayarak ayarların botu kapatıp açtıktan sonra da kalıcı olmasını sağlar.
-
-## Demo
-![Bot Demo](https://via.placeholder.com/300x150.png?text=Durum+Rol+Botu+Demo)  
-*(Ekran görüntüsü eklemek için kendi görselinizi buraya yükleyip URL'sini ekleyin.)*
 
 ## Özellikler
 - Kullanıcıların durum mesajına göre belirli bir rolü otomatik ekler/çıkarır.
@@ -23,11 +19,10 @@ Bu bir Discord botudur ve kullanıcıların durum mesajlarına göre otomatik ro
 ### 1. Proje Dosyalarını Klonla
 GitHub reposunu klonlayın:
 ```bash
-git clone https://github.com/kullaniciadi/durum-rol-botu.git
+git clone [https://github.com/RhantaDv/v14-Durum-Rol]
 cd durum-rol-botu
 ```
 
-*(Not: `https://github.com/kullaniciadi/durum-rol-botu.git` kısmını kendi GitHub reposu URL'nizle değiştirin.)*
 
 ### 2. Bağımlılıkları Yükle
 Terminali açın ve proje dizinine gidin, ardından şu komutu çalıştırın:
@@ -99,7 +94,7 @@ durum-rol-botu/
   ```bash
   npm install croxydb@latest
   ```
-- **Hatalar:** Konsol loglarını kontrol edin ve [Issues](https://github.com/kullaniciadi/durum-rol-botu/issues) bölümünde sorun bildirin.
+- **Hatalar:** Konsol loglarını kontrol edin ve [Issues](https://github.com/RhantaDv/v14-Durum-Rol/issues) bölümünde sorun bildirin.
 
 ## Katkı Sağlama
 1. Repoyu fork edin.
@@ -108,11 +103,8 @@ durum-rol-botu/
 4. Branch'i push edin: `git push origin feature/ozellik-adi`.
 5. Pull request oluşturun.
 
-## Lisans
-Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
-
 ## İletişim
-Sorularınız için Discord sunucuma katılabilirsiniz: [Discord Link](https://discord.gg/example).  
+Sorularınız için Discord sunucuma katılabilirsiniz: [Discord Link](https://discord.gg/vsc).  
 *(Not: Kendi Discord davet linkinizi buraya ekleyin.)*
 
 ## Teşekkürler
